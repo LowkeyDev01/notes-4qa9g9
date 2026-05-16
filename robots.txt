@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://LowkeyDev01.github.io/notes-4qa9g9/sitemap.xml
